@@ -37,7 +37,7 @@ The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpT
 
 ## Support VIS projects
 
-I have several stuffs in mind, but since developing these things has a high cost in materials and prototypes, a little [PayPal](https://www.paypal.com/donate/?hosted_button_id=64CARRQYFEZYL) donation is appreciated.
+I have several stuffs in mind, but since developing these things has a high cost in materials and prototypes, a little [PayPal](https://www.paypal.com/donate/?hosted_button_id=LSQK3VE8Y6EE6) donation is appreciated.
 
 ## Contacts
 
