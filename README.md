@@ -43,7 +43,7 @@ The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets tha
 | C3, C4 | 10 μF 16 V 0805 capacitor             | GRM21BR61C106KE15L | C77075|
 | D1 | 30 V 2 A Schottky diode            | B230A-13-F | C12889|
 | HC4066 | 30Ω 4 SPST Analog Switch           | SN74HC4066DR | C2869168|
-| HC4066 | 30Ω 4 SPST Analog Switch           | SN74HC4066DR | C2869168|
+| U1 | LDO 5 V 150 mA| NCV8664ST50T3G | C417290|
 | FFC/FPC connector x 2| 32 PIN pitch 0.5 mm   | AFC01-S32FCA-00 | C262672|
 | FFC/FPC cable| 32 PIN pitch 0.5 mm  10 cm length | - | -|
 | PIN headers| double rows pitch 1.27 mm | - | -|
