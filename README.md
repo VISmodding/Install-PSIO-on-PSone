@@ -28,6 +28,8 @@ The installation can be summarized as shown in the following image.
 **I have used the PSone model A** but it should be ok also for model B (if someone confirm this to me I will update this part of the description).
 The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpTidZ8)
 
+Ensure to enable the fast boot on the PSIO cartdridge since I remember that it works only with this option enabled (so enable it by using a phat PS1).
+
 **How cut the double row PIN headers in order to have single row headers will be shown in a new video asap**.
 
 ## Gaskets
