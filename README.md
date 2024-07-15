@@ -25,8 +25,12 @@ The installation can be summarized as shown in the following image.
 
 **I have used the PSone model A** but it should be ok also for model B (if someone confirm this to me I will update this part of the description).
 The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpTidZ8)
+
 **How cut the double row PIN headers in order to have single row headers will be shown in a new video asap**.
 
+## Instructions
+
+The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets that you can use to refine the visible cutted parts of the shell.
 ## Credits
   - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
   - [Cybdyn Systems](https://psio.cybdyn-systems.com.au/store/psio-cartridge/) that practically allowed me on Discord to share this project.
