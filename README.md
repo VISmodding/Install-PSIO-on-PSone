@@ -11,7 +11,9 @@ This project allows you to add a **Parallel port** to the **PSone** in order to 
 
 ## Repo overview
 
-The production file can be found on PCWay at this [PCBway link](https://www.pcbway.com/project/shareproject/Install_PSIO_on_PSone_ba62b327.html). An overwiev of the boards is shown in the following image.
+The production file can be found on PCWay <a href="https://www.pcbway.com/project/shareproject/Install_PSIO_on_PSone_ba62b327.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>. 
+
+An overwiev of the boards is shown in the following image.
 
 ![image](images/psio_boards.png)
 
