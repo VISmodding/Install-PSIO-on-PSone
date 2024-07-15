@@ -47,7 +47,6 @@ The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets tha
 | FFC/FPC connector x 2| 32 PIN pitch 0.5 mm   | AFC01-S32FCA-00 | C262672|
 | FFC/FPC cable| 32 PIN pitch 0.5 mm  10 cm length | - | -|
 | PIN headers| double rows pitch 1.27 mm | - | -|
-| ----------------------- | --------------------------------------------------------------------- | --------------------- | --------------------- |
 
 FFC/FPC cable and PIN headers can be easily found on several shops. I suggest you LCSC, Aliexpress and so on.
 
