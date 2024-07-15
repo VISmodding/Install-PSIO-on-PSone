@@ -21,7 +21,7 @@ So you have 3 PCBs directly into one file. I suggest you to produce PCBs with 0.
 
 The installation can be summarized in the following image.
 
-![image](images/ps_one_A)
+![image](images/ps_one_A.png)
 
 **I have used the PSone model A** but it should be ok also for model B (if someone confirm this to me I will update this part of the description).
 The detailed installation is shown in the following [setup video](https://youtu.be/x9w5lpTidZ8)
