@@ -32,6 +32,13 @@ The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpT
 
 The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets that you can use to refine the visible cutted parts of the shell.
 
+## Bill of Materials
+
+| Reference Designators    | Description  | Mfr. Part # | LCSC code or other sources | 
+| ----------------------- | --------------------------------------------------------------------- | --------------------- | --------------------- |
+| R1, R2, R3 | 10 kΩ 0805 resitor   | RC0805FR-0710KL          | C84376 |
+| R4 | 47 kΩ 0805 resitor             | RC0805JR-0747KL | C131051|
+
 ## Credits
   - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
   - [Cybdyn Systems](https://psio.cybdyn-systems.com.au/store/psio-cartridge/) that practically allowed me on Discord to share this project.
