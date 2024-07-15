@@ -55,6 +55,7 @@ FFC/FPC cable and PIN headers can be easily found on several shops. I suggest yo
 ## Credits
   - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
   - [Cybdyn Systems](https://psio.cybdyn-systems.com.au/store/psio-cartridge/) that practically allowed me on Discord to share this project.
+  - [Voultar](https://voultar.com/) that shared the PSIO circuit switchboard.
   - [ModeSelect](https://modeselect.neocities.org/) Discord user that have provided me the PSone board photos.
 
 ## License
