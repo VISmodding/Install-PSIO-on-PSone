@@ -34,10 +34,22 @@ The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets tha
 
 ## Bill of Materials
 
-| Reference Designators    | Description  | Mfr. Part # | LCSC code or other sources | 
+| Reference Designators    | Description  | Mfr. Part # | LCSC code | 
 | ----------------------- | --------------------------------------------------------------------- | --------------------- | --------------------- |
-| R1, R2, R3 | 10 kΩ 0805 resitor   | RC0805FR-0710KL          | C84376 |
-| R4 | 47 kΩ 0805 resitor             | RC0805JR-0747KL | C131051|
+| R1, R2, R3 | 10 kΩ 0805 resistor   | RC0805FR-0710KL          | C84376 |
+| R4 | 47 kΩ 0805 resistor             | RC0805JR-0747KL | C131051|
+| R5, R6 | 100 Ω 0805 resistor             | SWR05JTFV1000 | C412432|
+| C1, C2 | 100 nF 50 V 0805 capacitor             | GRM21BR71H104KA01L | C77082|
+| C3, C4 | 10 μF 16 V 0805 capacitor             | GRM21BR61C106KE15L | C77075|
+| D1 | 30 V 2 A Schottky diode            | B230A-13-F | C12889|
+| HC4066 | 30Ω 4 SPST Analog Switch           | SN74HC4066DR | C2869168|
+| HC4066 | 30Ω 4 SPST Analog Switch           | SN74HC4066DR | C2869168|
+| FFC/FPC connector x 2| 32 PIN pitch 0.5 mm   | AFC01-S32FCA-00 | C262672|
+| FFC/FPC cable| 32 PIN pitch 0.5 mm  10 cm length | - | -|
+| PIN headers| double rows pitch 1.27 mm | - | -|
+| ----------------------- | --------------------------------------------------------------------- | --------------------- | --------------------- |
+
+FFC/FPC cable and PIN headers can be easily found on several shops. I suggest you LCSC, Aliexpress and so on.
 
 ## Credits
   - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
