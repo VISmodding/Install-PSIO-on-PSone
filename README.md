@@ -24,7 +24,7 @@ The installation can be summarized as shown in the following image.
 ![image](images/ps_one_A.png)
 
 **I have used the PSone model A** but it should be ok also for model B (if someone confirm this to me I will update this part of the description).
-The detailed installation is shown in the following [setup video](https://youtu.be/x9w5lpTidZ8)
+The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpTidZ8)
 **How cut the double row PIN headers in order to have single row headers will be shown in a new video asap**.
 
 ## Credits
