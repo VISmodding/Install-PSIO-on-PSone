@@ -19,7 +19,7 @@ So you have 3 PCBs directly into one file. I suggest you to produce PCBs with 0.
 
 ## Instructions
 
-The installation can be summarized in the following image.
+The installation can be summarized as shown in the following image.
 
 ![image](images/ps_one_A.png)
 
