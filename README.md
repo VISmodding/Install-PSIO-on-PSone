@@ -2,7 +2,7 @@
 
 ![image](images/PSonePSIO.png)
 
-This project allows you to add a **Parallel port** to the **PSone** in order to use a Cybdyn Systems's PSIO Cartridge by preserving also the CD-ROM drive. The parallel port must be sourced from a donor phat PS1 (this is the only drawback). The utility of this mod is to avoid to solder a PSIO cartdridge directly inside the console so if you have also a phat PSIO ready PS1 you can use PSIO on both. PSIO cartdridge can be purchased from the [Cybdyn Systems online store](https://psio.cybdyn-systems.com.au/store/psio-cartridge/). This is the only way to play your PS1 games from an SD card preserving your CD-ROM drive.
+This project allows you to add a **Parallel port** to the **PSone** in order to use a Cybdyn Systems's PSIO Cartridge by preserving also the CD-ROM drive. The parallel port must be sourced from a donor phat PS1 (this is the only drawback). The utility of this mod is to avoid to solder a PSIO cartdridge directly inside the console so if you have also a phat PSIO ready PS1 you can use PSIO on both. PSIO cartdridge can be purchased from the [Cybdyn Systems online store](https://psio.cybdyn-systems.com.au/store/psio-cartridge/). At the moment, this is the only way to play your PS1 games from an SD card preserving your CD-ROM drive without wiring a PSIO cart inside the PSone.
 
 ## Disclaimer
 
@@ -57,7 +57,7 @@ FFC/FPC cable and PIN headers can be easily found on several shops. I suggest yo
 - [Aliexpress FPC/FFC 32 pin cable](https://www.aliexpress.com/item/32952887118.html) buy length 10 cm.
 
 ## Credits
-  - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
+  - [China TZMWX](https://www.youtube.com/watch?v=lZuWaWRO4Zg&ab_channel=ChinaTZMWX). I started from this project that explain how wire a PSIO inside a PSone.
   - [Cybdyn Systems](https://psio.cybdyn-systems.com.au/store/psio-cartridge/) that practically allowed me on Discord to share this project.
   - [Voultar](https://voultar.com/) that shared the PSIO circuit switchboard.
   - [ModeSelect](https://modeselect.neocities.org/) Discord user that have provided me the PSone board photos.
