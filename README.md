@@ -30,7 +30,9 @@ The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpT
 
 Ensure to enable the fast boot on the PSIO cartridge since I remember that it works only with this option enabled (so enable it by using a phat PS1).
 
-**How cut the double row PIN headers in order to have single row headers will be shown in a new video asap**.
+**How cut the double row PIN headers in order to have single row headers is summarized in the following image** (so practically one row of PINs must be destroyed since split double rows PINs into 2 pieces is impossible. They are cheap so simply buy several of these).
+
+![image](images/PIN_headers_cut.png)
 
 ## Gaskets
 
