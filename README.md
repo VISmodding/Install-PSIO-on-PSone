@@ -2,7 +2,7 @@
 
 ![image](images/PSonePSIO.png)
 
-This project allows you to add a **Parallel port** to the **PSone** in order to use a Cybdyn Systems's PSIO Cartridge by preserving also the CD-ROM drive. The parallel port must be sourced from a donor phat PS1 (this is the only drawback). The utility of this mod is to avoid to solder a PSIO cartdridge directly inside the console so if you have also a phat PSIO ready PS1 you can use PSIO on both. PSIO cartdridge can be purchased from the [Cybdyn Systems online store](https://psio.cybdyn-systems.com.au/store/psio-cartridge/). At the moment, this is the only way to play your PS1 games from an SD card preserving your CD-ROM drive without wiring a PSIO cart inside the PSone.
+This project allows you to add a **Parallel port** to the **PSone** in order to use a Cybdyn Systems's PSIO Cartridge by preserving also the CD-ROM drive. The parallel port must be sourced from a donor phat PS1 (this is the only drawback). The utility of this mod is to avoid to solder a PSIO cartridge directly inside the console so if you have also a phat PSIO ready PS1 you can use PSIO on both. PSIO cartridge can be purchased from the [Cybdyn Systems online store](https://psio.cybdyn-systems.com.au/store/psio-cartridge/). At the moment, this is the only way to play your PS1 games from an SD card preserving your CD-ROM drive without wiring a PSIO cart inside the PSone.
 
 ## Disclaimer
 
@@ -28,7 +28,7 @@ The installation can be summarized as shown in the following image.
 **I have used the PSone model A** but it should be ok also for model B (if someone confirm this to me I will update this part of the description).
 The detailed installation is shown in the [setup video](https://youtu.be/x9w5lpTidZ8)
 
-Ensure to enable the fast boot on the PSIO cartdridge since I remember that it works only with this option enabled (so enable it by using a phat PS1).
+Ensure to enable the fast boot on the PSIO cartridge since I remember that it works only with this option enabled (so enable it by using a phat PS1).
 
 **How cut the double row PIN headers in order to have single row headers will be shown in a new video asap**.
 
@@ -57,7 +57,7 @@ FFC/FPC cable and PIN headers can be easily found on several shops. I suggest yo
 - [Aliexpress FPC/FFC 32 pin cable](https://www.aliexpress.com/item/32952887118.html) buy length 10 cm.
 
 ## Credits
-  - [China TZMWX](https://www.youtube.com/watch?v=lZuWaWRO4Zg&ab_channel=ChinaTZMWX). I started from this project that explain how wire a PSIO inside a PSone.
+  - [China TZMWX](https://www.youtube.com/watch?v=lZuWaWRO4Zg&ab_channel=ChinaTZMWX). I started from this project that explain how wire a PSIO cartridge inside a PSone.
   - [Cybdyn Systems](https://psio.cybdyn-systems.com.au/store/psio-cartridge/) that practically allowed me on Discord to share this project.
   - [Voultar](https://voultar.com/) that shared the PSIO circuit switchboard.
   - [ModeSelect](https://modeselect.neocities.org/) Discord user that have provided me the PSone board photos.
