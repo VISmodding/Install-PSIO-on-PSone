@@ -50,9 +50,11 @@ The "PSIO_PSone_gaskets.stl" file can be 3D printed. It contains the gaskets tha
 | U1 | LDO 5 V 150 mA| NCV8664ST50T3G | C417290|
 | FFC/FPC connector x 2| 32 PIN pitch 0.5 mm   | AFC01-S32FCA-00 | C262672|
 | FFC/FPC cable| 32 PIN pitch 0.5 mm  10 cm length | - | -|
-| PIN headers| double rows pitch 1.27 mm | - | -|
+| PIN headers| double rows right angle pitch 1.27 mm | - | -|
 
-FFC/FPC cable and PIN headers can be easily found on several shops. I suggest you LCSC, Aliexpress and so on.
+FFC/FPC cable and PIN headers can be easily found on several shops. I suggest you LCSC, Aliexpress and so on. For example you can buy these:
+- [Aliexpress PIN headers](https://www.aliexpress.com/item/1005003187603100.html) buy at least 2x20 type.
+- [Aliexpress FPC/FFC 32 pin cable](https://www.aliexpress.com/item/32952887118.html) buy length 10 cm.
 
 ## Credits
   - TZMVX that shared in the past the way to wire a PSIO cartdridge inside the PSone. So my project started from it. I cannot find this project so if someone indicate me whois TZMVX I can give him/her proper credits.
